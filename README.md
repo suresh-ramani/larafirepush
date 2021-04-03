@@ -1,5 +1,7 @@
 # Firebase Push Notification Laravel Tutorial
 
+### [Visit Blog](https://techvblogs.com/blog/firebase-push-notification-laravel?ref=repo)
+
 #### Install Packages
 
 ```
